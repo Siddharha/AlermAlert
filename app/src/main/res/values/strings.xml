@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alerm Alert</string>
+    <string name="message_box_title">Alert for Reminder</string>
+    <string name="message_timesheet_not_up_to_date">Test Message</string>
+</resources>
